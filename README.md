@@ -1,0 +1,2 @@
+# NettyServer
+使用Netty搭建web容器，并集成Spring实现浏览器客户端访问
